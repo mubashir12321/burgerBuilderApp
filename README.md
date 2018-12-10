@@ -1,1 +1,2 @@
-
+A fully working react app the allows a user to add ingredients to the burger and then order the burger, user can see the order summary and total price equal to the sum of individual prices of ingredients added. It also allows the user to confirm or cancel the order on the order
+summary, that is a popup appears on clicking the order button after adding ingredients of their choice. A side drawer is also added for the mobile screens. The burger ingredients can be seen added or removed interactively. The app is using core react features. Please have a look on the code, clone it and run it by typing "npm start". 
